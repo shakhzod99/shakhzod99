@@ -4,7 +4,7 @@
 I'm Shakhzod from Tashkent, I'm a third year student in TUIT and I write apps in Kotlin and Java. I really enjoy learning languages. You can reach me in telegram https://t.me/MiNombreEsPrince
 
 
-##  Skills:  :iphone: JAVA / KOTLIN / SQLite / MVVM / Figma
+###  Skills:  :iphone: JAVA / KOTLIN / SQLite / MVVM / Figma
 
 - 🔭
 
