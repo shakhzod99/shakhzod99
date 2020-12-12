@@ -16,7 +16,6 @@ I'm Shakhzod from Uzbekistan:uzbekistan:, I'm a third year student in TUIT and I
 :green_circle: Figma
 
 
-[![Shakhzod's github stats](https://github-readme-stats.vercel.app/api?username=shakhzod99)](https://github.com/shakhzod99/github-readme-stats)
 <!--
 **shakhzod99/shakhzod99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
