@@ -1,10 +1,15 @@
 ![Mobile Development](https://github.com/shakhzod99/shakhzod99/blob/main/Shakhzod_MobDevBanner.png)
 # Shakhzod Kamolov
 
-I'm Shakhzod from Tashkent, I'm a third year student in TUIT and I write apps in Kotlin and Java. I really enjoy learning languages. You can reach me in telegram https://t.me/MiNombreEsPrince
+I'm Shakhzod from Uzbekistan:uzbekistan:, I'm a third year student in TUIT and I write apps in Kotlin and Java. I really enjoy learning languages. You can reach me in telegram https://t.me/MiNombreEsPrince
 
 
-##  Skills:  :iphone: JAVA / KOTLIN / SQLite / MVVM / Figma
+##  Skills and Experience:  
+ :white_circle: JAVA  
+ :white_circle: KOTLIN 
+ :white_circle: SQLite
+ :white_circle: MVVM
+ :white_circle: Figma
 
 - 🔭
 
