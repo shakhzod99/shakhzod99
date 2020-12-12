@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm Shakhzod from Tashkent, I'm a third year student in TUIT and I write apps in Kotlin and Java. I really enjoy learning languages. You can find me in telegram https://t.me/MiNombreEsPrince
+I'm Shakhzod from Tashkent, I'm a third year student in TUIT and I write apps in Kotlin and Java. I really enjoy learning languages. 
+You can reach me in telegram https://t.me/MiNombreEsPrince
 
 
 [![Shakhzod's github stats](https://github-readme-stats.vercel.app/api?username=shakhzod99)](https://github.com/shakhzod99/github-readme-stats)
