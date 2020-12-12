@@ -6,9 +6,13 @@ I'm Shakhzod from Uzbekistan:uzbekistan:, I'm a third year student in TUIT and I
 
 ##  Skills and Experience:  
  :white_circle: JAVA  
+ 
  :white_circle: KOTLIN 
+ 
  :white_circle: SQLite
+ 
  :white_circle: MVVM
+ 
  :white_circle: Figma
 
 - 🔭
