@@ -1,5 +1,5 @@
 ![Mobile Development](https://github.com/shakhzod99/shakhzod99/blob/main/Shakhzod_MobDevBanner.png)
-### Hi there 👋, I'm Shakhzod
+## Hi there 👋, I'm Shakhzod
 
 I'm Shakhzod from Tashkent, I'm a third year student in TUIT and I write apps in Kotlin and Java. I really enjoy learning languages. You can reach me in telegram https://t.me/MiNombreEsPrince
 
