@@ -5,11 +5,11 @@ I'm Shakhzod from Uzbekistan:uzbekistan:, I'm a third year student in TUIT and I
 
 
 ##  Skills and Experience:  
- > JAVA  
- > KOTLIN 
- > SQLite
- > MVVM
- > Figma
+ :red_circle: JAVA  
+ :large_blue_circle: KOTLIN 
+ :white_circle: SQLite
+ :yellow_circle: MVVM
+ :green_circle: Figma
 
 
 [![Shakhzod's github stats](https://github-readme-stats.vercel.app/api?username=shakhzod99)](https://github.com/shakhzod99/github-readme-stats)
