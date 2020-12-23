@@ -15,7 +15,7 @@ I'm Shakhzod from Uzbekistan:uzbekistan:, I'm a third year student in TUIT and I
 
 :green_circle: Figma
 
-##  Examples of WOrk:  
+##  Examples of My Works:  
 
 <img src="https://github.com/shakhzod99/CryptoStats/blob/master/CryptoStats.gif"  width="350" height="650"/>
 <!--
