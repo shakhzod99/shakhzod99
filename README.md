@@ -16,7 +16,8 @@ I'm Shakhzod from Uzbekistan:uzbekistan:, I'm a third year student in TUIT and I
 :green_circle: Figma
 
 ##  Examples of WOrk:  
-https://github.com/shakhzod99/CryptoStats/blob/master/CryptoStats.gif
+
+<img src="https://github.com/shakhzod99/CryptoStats/blob/master/CryptoStats.gif"  width="500" height="960"/>
 <!--
 **shakhzod99/shakhzod99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
