@@ -16,13 +16,13 @@ I'm Shakhzod from Uzbekistan:uzbekistan:, I'm a third year student in TUIT and I
 :green_circle: Figma
 
 ##  Examples of My Works:
-<p align="left">
+<p align="center">
 <img src="https://github.com/shakhzod99/Test_yout_brain/blob/master/TestYourBrain.gif" align="center"  width="400" height="770"/> 
 </p>
 <p align="center">
 <img src="https://github.com/shakhzod99/CryptoStats/blob/master/CryptoStats.gif"  width="400" height="770"/>
 </p>
-<p align="right">
+<p align="center">
 <img src=https://github.com/shakhzod99/Timer/blob/master/Timer%20App%20Gif.gif  width="400" height="770"/> 
 </p>
 <!--
