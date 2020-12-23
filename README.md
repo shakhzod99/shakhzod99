@@ -17,7 +17,7 @@ I'm Shakhzod from Uzbekistan:uzbekistan:, I'm a third year student in TUIT and I
 
 ##  Examples of WOrk:  
 
-<img src="https://github.com/shakhzod99/CryptoStats/blob/master/CryptoStats.gif"  width="350" height="600"/>
+<img src="https://github.com/shakhzod99/CryptoStats/blob/master/CryptoStats.gif"  width="350" height="650"/>
 <!--
 **shakhzod99/shakhzod99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
