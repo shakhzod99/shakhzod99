@@ -17,13 +17,13 @@ I'm Shakhzod from Uzbekistan:uzbekistan:, I'm a third year student in TUIT and I
 
 ##  Examples of My Works:
 <p align="center">
-<img src="https://github.com/shakhzod99/Test_yout_brain/blob/master/TestYourBrain.gif" align="center"  width="400" height="750"/> 
+<img src="https://github.com/shakhzod99/Test_yout_brain/blob/master/TestYourBrain.gif" align="center"  width="400" height="770"/> 
 </p>
 <p align="center">
-<img src="https://github.com/shakhzod99/CryptoStats/blob/master/CryptoStats.gif"  width="400" height="750"/>
+<img src="https://github.com/shakhzod99/CryptoStats/blob/master/CryptoStats.gif"  width="400" height="770"/>
 </p>
 <p align="center">
-<img src=https://github.com/shakhzod99/Timer/blob/master/Timer%20App%20Gif.gif  width="400" height="750"/> 
+<img src=https://github.com/shakhzod99/Timer/blob/master/Timer%20App%20Gif.gif  width="400" height="770"/> 
 </p>
 <!--
 **shakhzod99/shakhzod99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
