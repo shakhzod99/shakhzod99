@@ -11,8 +11,6 @@ I'm Shakhzod from Uzbekistan:uzbekistan:, I'm a third year student in TUIT and I
 
 :white_circle: SQLite
 
-:yellow_circle: MVVM
-
 :green_circle: Figma
 
 ##  Examples of My Works:
