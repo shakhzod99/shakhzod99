@@ -11,6 +11,10 @@ I'm Shakhzod from Uzbekistan:uzbekistan:, I'm a third year student in TUIT and I
 
 :white_circle: SQLite
 
+:white_circle: PostgreSQL
+
+:white_circle: OracleSQL
+
 :green_circle: Figma
 
 ##  Examples of My Works:
