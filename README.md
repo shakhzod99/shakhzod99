@@ -1,13 +1,13 @@
 ![Mobile Development](https://github.com/shakhzod99/shakhzod99/blob/main/Shakhzod_MobDevBanner.png)
 # Shakhzod Kamolov
 
-I'm Shakhzod from Uzbekistan:uzbekistan:, I'm a third year student in TUIT and I write apps in Kotlin and Java. I really enjoy learning languages. You can reach me in telegram https://t.me/MiNombreEsPrince
+I'm Shakhzod from Uzbekistan:uzbekistan:, I'm a fourth year student in TUIT and I write apps in Flutter and Java. I really enjoy learning languages. You can reach me in telegram https://t.me/MiNombreEsPrince
 
 
 ##  Skills and Experience:  
 :red_circle: JAVA  
 
-:large_blue_circle: KOTLIN 
+:large_blue_circle: Flutter 
 
 :white_circle: SQLite
 
