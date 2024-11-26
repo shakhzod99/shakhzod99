@@ -1,6 +1,6 @@
 # Shakhzod Kamolov
 
-I'm Shakhzod from Uzbekistan:uzbekistan:, I'm Backend Java Developer
+I'm Shakhzod from Uzbekistan, I'm Backend Java Developer
 
 
 ##  Skills and Experience:  
